@@ -1,6 +1,6 @@
 # Color Board
 
-## Simple JS App - [Demo](https://mve-slider-var-js.vercel.app/)
+## Simple JS App - [Demo](https://mve-color-board-js.vercel.app/)
 
 ### App Color Board
 
